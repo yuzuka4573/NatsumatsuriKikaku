@@ -1,6 +1,6 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+祭りじゃ祭りじゃ！
 
-layout: home
----
+バーチャルYouTuberたちが一夜限りの夏祭りを開催します！
+- 夏祭りまでの1週間で会場を準備し、その様子は各々で配信します。
+- 夏祭り当日はサーバを一般公開し、誰でも夏祭りを楽しめます。
+- 夏祭り終了後も一般公開を続けます。

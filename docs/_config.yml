@@ -28,7 +28,7 @@ twitter_username: Kannaduki_Yzk
 github_username:  yuzuka4573
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
