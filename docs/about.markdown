@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-##　神無月ユズカ
-[yzkImage](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/yzk_icon.png)  
+## 神無月ユズカ
+![yzkImage](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/yzk_icon.png)  
 *学生アマチュアVRクリエイターなVtuber*  
 ITやPC、機械関連にある程度の関心があるバーチャルクリエイター  
 Vtuber関連のシステム開発を裏でやりつつ、ゲーム配信等の活動を行う  
