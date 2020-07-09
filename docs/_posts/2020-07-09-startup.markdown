@@ -8,8 +8,8 @@ categories: meta
 *Hello world from virtual world!!*  
 どうも、こんにちは！バーチャルアマチュアXRエンジニアの神無月ユズカです！  
 
-本日より、"バーチャル夏祭り"の企画参加者を募集したいと思います
-![banner](../img/banner.png)
+本日より、"バーチャル夏祭り"の企画参加者を募集したいと思います  
+![banner](https://github.com/yuzuka4573/NatsumatsuriKikaku/blob/master/docs/img/banner.png)
 ## "バーチャル夏祭り"って何？
 "バーチャル夏祭り"とは、皆さんご存知のMinecraft内で、夏祭り会場ワールドを作って、散策する企画です!
 本来であれば、リアル世界でもこの夏の時期に様々なイベントが行われるはずですが、残念ながら今年は色々な事があって開催をやめているところもあるそうです。  
