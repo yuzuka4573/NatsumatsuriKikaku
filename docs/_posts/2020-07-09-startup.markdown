@@ -23,7 +23,7 @@ categories: meta
     </tr>
     <tr>
       <td>2020-07-20</td>
-      <td>開催式</td>
+      <td>開祭式</td>
     </tr>
     <tr>
       <td>2020-07-20 ～ 2020-08-06</td>
