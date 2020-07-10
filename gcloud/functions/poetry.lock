@@ -182,6 +182,18 @@ version = "2.10"
 
 [[package]]
 category = "dev"
+description = "A Python utility / library to sort Python imports."
+name = "isort"
+optional = false
+python-versions = ">=3.6,<4.0"
+version = "5.0.7"
+
+[package.extras]
+pipfile_deprecated_finder = ["pipreqs", "requirementslib", "tomlkit (>=0.5.3)"]
+requirements_deprecated_finder = ["pipreqs", "pip-api"]
+
+[[package]]
+category = "dev"
 description = "Various helpers to pass data to untrusted environments and back."
 name = "itsdangerous"
 optional = false
@@ -343,7 +355,7 @@ dev = ["pytest", "pytest-timeout", "coverage", "tox", "sphinx", "pallets-sphinx-
 watchdog = ["watchdog"]
 
 [metadata]
-content-hash = "5958b09b3b067c4a0ec5bc99e93afc2653fde8cd3cf99d82d75524341b81a492"
+content-hash = "aa58c6b3807778a16330fd8f2712ea79a8d926be7599ed6cea1d9b1207cd558d"
 python-versions = "^3.7"
 
 [metadata.files]
@@ -402,6 +414,10 @@ httplib2 = [
 idna = [
     {file = "idna-2.10-py2.py3-none-any.whl", hash = "sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0"},
     {file = "idna-2.10.tar.gz", hash = "sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6"},
+]
+isort = [
+    {file = "isort-5.0.7-py3-none-any.whl", hash = "sha256:46bd31573158ac69e598a2ab14b207e6a43a2b2872009d2ad0f62f179876037a"},
+    {file = "isort-5.0.7.tar.gz", hash = "sha256:6bc0b408d7c62e331d355085914dd28fd352635f6babd5e4605702ff3b6d9c09"},
 ]
 itsdangerous = [
     {file = "itsdangerous-1.1.0-py2.py3-none-any.whl", hash = "sha256:b12271b2047cb23eeb98c8b5622e2e5c5e9abd9784a153e9d8ef9cb4dd09d749"},

@@ -1,18 +1,27 @@
-import os
 import json
+import os
+
 import googleapiclient.discovery
 
-class CustomClient:
-  def __init__(self):
-    self.compute = googleapiclient.discovery.build('compute', 'v1')
-    self.project = os.getenv('GCP_PROJECT')
-    self.zone = 'us-central1-a'
+compute = googleapiclient.discovery.build('compute', 'v1')
+project = os.getenv('GCP_PROJECT')
+zone = 'us-central1-a'
+instance = 'instance-1'
 
-def list(request):
-    client = CustomClient()
-    instances_list = client.compute. \
-        instances(). \
-        list(project=client.project, zone=client.zone). \
-        execute()
-    result = instances_list['items'] if 'items' in instances_list else []
-    return json.dumps(result)
+def get(request):
+    result = compute.instances() \
+        .get(project=project, zone=zone, instance=instance) \
+        .execute()
+    return result['status']
+
+def start(request):
+    result = compute.instances() \
+        .start(project=project, zone=zone, instance=instance) \
+        .execute()
+    return result['status']
+
+def stop(request):
+    result = compute.instances() \
+        .stop(project=project, zone=zone, instance=instance) \
+        .execute()
+    return result['status']
