@@ -26,6 +26,7 @@ baseurl: "/NatsumatsuriKikaku" # the subpath of your site, e.g. /blog
 url: "http://yuzuka4573.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Kannaduki_Yzk
 github_username:  yuzuka4573
+google_analytics: UA-172445319-1
 
 # Build settings
 theme: minima
