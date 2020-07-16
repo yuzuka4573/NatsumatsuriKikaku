@@ -5,9 +5,9 @@ date:   2020-07-16 14:00:00 +0900
 categories: meta
 ---
 
-*Hello world from virtual world!!*
-どうも、こんにちは！バーチャルアマチュアXRエンジニアの神無月ユズカです！
-今回は、運営たちがイメージつきやすくするためにフライングで土台制作を始めた夏祭り会場ワールドのスクリーンショットを紹介します!
+*Hello world from virtual world!!*  
+どうも、こんにちは！バーチャルアマチュアXRエンジニアの神無月ユズカです！  
+今回は、運営たちがイメージつきやすくするためにフライングで土台制作を始めた夏祭り会場ワールドのスクリーンショットを紹介します!  
 
 ![SS001 - 会場付近に並ぶ山々](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss001.png) ![SS002 - 引きの風景](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss002.png)
 ![SS003 - マイクラの村](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss003.png) ![SS004 - 上空からの風景](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss004.png)
