@@ -11,7 +11,7 @@ categories: meta
 サーバー自体はlinuxで運用し,Spigotサーバ、ver 1.16.1を使用しています。  
 Minecraft 公式サーバ
 > Minecraftを開発しているMojang Studioがリリースしているマイクラ用サーバ  
-> マルチプレイをするためのある意味最小限の機能を持っている
+> マルチプレイをするためのある意味最小限の機能を持っている  
 > Windows / Linux / Mac版がある  
 > 統合版との互換性はない   
 
