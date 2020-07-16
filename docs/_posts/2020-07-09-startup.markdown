@@ -15,6 +15,8 @@ categories: meta
 本来であれば、リアル世界でもこの夏の時期に様々なイベントが行われるはずですが、残念ながら今年は色々な事があって開催をやめているところもあるそうです。  
 そんな中で、バーチャルな世界からなにかできないかということで作られた企画です。
 参加してもらうVtuberさん/V界隈の方にはもちろん楽しんでもらいたいですし、見ている視聴者さんにも体感してもらえるものにしたいと思ってます。
+
+![SS001](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss002.png) ![SS002](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss003.png)
 ## 企画の流れ  
 <table>
     <tr>
@@ -68,5 +70,3 @@ categories: meta
 - Minecraftサーバ自体はホワイトリスト方式を採用しますので、一般公開時以外は関係者以外アクセスできません
 ## お問い合わせ
 本企画に関しての質問は神無月ユズカのDM([@Kannaduki_Yzk](https://twitter.com/Kannaduki_Yzk))にお送りください
-
-
