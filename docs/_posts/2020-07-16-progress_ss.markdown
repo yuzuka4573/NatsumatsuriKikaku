@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "バーチャル夏祭り 企画参加者募集！"
+title:  "バーチャル夏祭り フライング建築スクリーンショット"
 date:   2020-07-16 14:00:00 +0900
 categories: meta
 ---
@@ -14,7 +14,7 @@ categories: meta
 ![SS005 - 山の中の洞窟01](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss005.png) ![SS006 - 山の中の洞窟02](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss006.png)
 ![SS007 - 山の中の洞窟03](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss007.png) ![SS008 - 活火山](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss008.png)
 ![SS009 - 屋台通り](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/ss009.png)
----
-Minecraft 1.16.1 + Spigot 1.16.1 Server
-ShaderPack : BSL_v7.1.05p2
+<hr>
+Minecraft 1.16.1 + Spigot 1.16.1 Server  
+ShaderPack : BSL_v7.1.05p2  
 Crafter : Kannaduki Yuzuka, Rema  
