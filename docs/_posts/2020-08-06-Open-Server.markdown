@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "バーチャル夏祭り 企画参加者募集！"
+title:  "バーチャル夏祭り サーバー解放のお知らせ"
 date:   2020-08-06 06:30:00 +0900
 categories: meta
 ---
