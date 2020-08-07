@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "バーチャル夏祭り サーバー解放のお知らせ"
-date:   2020-08-07 12:00:00 +0900
+date:   2020-08-07 13:30:00 +0900
 categories: meta
 ---
 ![th](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/th.png)  
@@ -23,7 +23,7 @@ Minecraft Java版 1.16.1 バニラ(Spigot, Modなし)
 2020年8月7日 12:00 - 2020年8月9日 23:59  
 ## アクセス方法  
 1. Minecraftのはじめの画面より「マルチプレイ」を選択  
-2. ダイレクト接続を押して `0.0.0.0`と入力  
+2. ダイレクト接続を押して `‪104.198.113.192‬`と入力  
 3. 「サーバーに接続」を押して入る！  
 ## MAP  
 ![Map](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/map-01.png)
