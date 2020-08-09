@@ -23,7 +23,7 @@ Minecraft Java版 1.16.1 バニラ(Spigot, Modなし)
 2020年8月7日 12:00 - 2020年8月9日 23:59  
 ## アクセス方法  
 1. Minecraftのはじめの画面より「マルチプレイ」を選択  
-2. ダイレクト接続を押して `‪104.198.113.192‬`と入力  
+2. ダイレクト接続を押して `‪[REDACTED]`と入力  
 3. 「サーバーに接続」を押して入る！  
 ## MAP  
 ![Map](https://raw.githubusercontent.com/yuzuka4573/NatsumatsuriKikaku/master/docs/img/map-01.png)
