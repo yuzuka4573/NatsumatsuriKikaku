@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "A client for handling Remote Commands (RCON) to a Minecraft server."
+name = "mcrcon"
+optional = false
+python-versions = "*"
+version = "0.6.0"
+
+[metadata]
+content-hash = "7083db8a474c5fb1ff55f1e55bb4c07c4adc537c92d78becabb7e01b6cdade4c"
+python-versions = "^3.7"
+
+[metadata.files]
+mcrcon = [
+    {file = "mcrcon-0.6.0.tar.gz", hash = "sha256:62e5fe014ffd347e7f2e50d92997520607c609a8accf570dbde29b69d8e4ad03"},
+]
